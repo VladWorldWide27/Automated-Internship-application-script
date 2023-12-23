@@ -1,2 +1,3 @@
 # Automated-Internship-application-script
-Automated-Internship-application-script using Linked in
+This script automatically applies to Linkedin Jobs.
+It demands a Linked in account and a specified link with your specific filters.
